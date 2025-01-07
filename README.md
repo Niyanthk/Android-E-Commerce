@@ -41,7 +41,6 @@
   
 <BR><BR>
    
-## Features
 
 <BR><BR>
   
