@@ -1,46 +1,5 @@
 # 🛒 E-Commerce 🛍
- 
-<BR><BR><BR> 
 
-<B>Part 1 - [Android App]()   - currently viewing <BR>
-   Part 2 - [Flutter Mobile App]()     <BR> 
-   Part 3 - [Web App using MERN Stack Technology]()      <BR>
-   Part 4 - [Desktop Application using JavaFX, MySQL & JDBC]()   <BR>
-     <BR><BR><BR>
-   <H3> <div align="center">Part 1 - Android App</div>       </H3>   <BR><BR><BR>
-</B>
- 
- 
-
-This App is linked to my e-commerce website via web-services using a REST API developed; which are the other parts of this project. <BR>
-The Website, Android App, Flutter App & Flutter Web App are connected to each other <BR>
-
-<div class="row">
-  <div class="column">
-    <img src="https://4.bp.blogspot.com/-NnAkV5vpYuw/XNMYF4RtLvI/AAAAAAAAI70/kdgLm3cnTO4FB4rUC0v9smscN3zHJPlLgCLcBGAs/s1600/Jetpack_logo%2B%25282%2529.png" alt="Adobe XD" width="80px">
-  </div>
-   
-  <div class="column">
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="Adobe XD" width="40px">
-  </div>
-  
-  <div class="column">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="60px">
-  </div>
-</div>
-
-
-
-  - Displaying exact reason for order return
-  - Google Maps & a article on it
-- Poster
-
-<BR> 
-  
-[Project Report]()
-
- 
-<BR><BR>
 
 ## 📸 Screenshots
 
